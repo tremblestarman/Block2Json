@@ -1,0 +1,2770 @@
+﻿[
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=north,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=north,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=north,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=north,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=north,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=north,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=south,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=south,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=south,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=south,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=south,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=south,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=west,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=west,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=west,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=west,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=west,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=west,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "3",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=east,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=east,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=east,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=east,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=east,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=east,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=north,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=north,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=north,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=north,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=north,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=north,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "5",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=south,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=south,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=south,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=south,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=south,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=south,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "6",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=west,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=west,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=west,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=west,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=west,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=west,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "7",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=east,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=east,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=east,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=east,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=east,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=east,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "8",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=north,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=north,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=north,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=north,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=north,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=north,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "9",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=south,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=south,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=south,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=south,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=south,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=south,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "10",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=west,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=west,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=west,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=west,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=west,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=west,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "11",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=east,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=east,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=east,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=east,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=east,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=east,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "12",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=north,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=north,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=north,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=north,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=north,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=north,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "13",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=south,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=south,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=south,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=south,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=south,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=south,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "14",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=west,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=west,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=west,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=west,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=west,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=west,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "96",
+		"Data": "15",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_trapdoor",
+		"Data": "facing=east,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_trapdoor",
+		"Data": "facing=east,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_trapdoor",
+		"Data": "facing=east,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_trapdoor",
+		"Data": "facing=east,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_trapdoor",
+		"Data": "facing=east,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_trapdoor",
+		"Data": "facing=east,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=north,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=south,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=west,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "3",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=east,half=bottom,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=north,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "5",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=south,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "6",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=west,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "7",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=east,half=bottom,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "8",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=north,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "9",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=south,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "10",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=west,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "11",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=east,half=top,open=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "12",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=north,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "North",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "13",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=south,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "South",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "14",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=west,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "West",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "167",
+		"Data": "15",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "iron_trapdoor",
+		"Data": "facing=east,half=top,open=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Wall.json",
+			"Params": "East",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_trapdoor"
+				}
+			}
+		}
+	}]
+]

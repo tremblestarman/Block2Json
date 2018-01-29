@@ -1,0 +1,41 @@
+﻿[[
+  {
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "85",
+		"Data": "0",
+		"Size": {
+			"X": 0.1,
+			"Y": 0.5,
+			"Z": 0.1
+		},
+		"Model": {
+			"Name": "Connect-Fence.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_fence",
+		"Data": "x",
+		"Size": {
+			"X": 0.1,
+			"Y": 0.5,
+			"Z": 0.1
+		},
+		"Model": {
+			"Name": "Connect-Fence.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}]
+]

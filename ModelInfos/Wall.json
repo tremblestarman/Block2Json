@@ -1,0 +1,88 @@
+﻿{
+	"Enums": [{
+		"Conditions": [{
+			"Params": "Default"
+		}],
+		"Elements": [{
+			"from": [
+				"-$sx",
+				"-$sz",
+				"0.5-$sy"
+			],
+			"to": [
+				"$sx",
+				"$sz",
+				"0.5+$sy"
+			],
+			"Texture": "A"
+		}]
+	}, {
+		"Conditions": [{
+			"Params": "North"
+		}],
+		"Elements": [{
+			"from": [
+				"-$sx",
+				"-$sz",
+				"0.5-$sy"
+			],
+			"to": [
+				"$sx",
+				"$sz",
+				"0.5+$sy"
+			],
+			"Texture": "A"
+		}]
+	}, {
+		"Conditions": [{
+			"Params": "South"
+		}],
+		"Elements": [{
+			"from": [
+				"-$sx",
+				"-$sz",
+				"-0.5"
+			],
+			"to": [
+				"$sx",
+				"$sz",
+				"-0.5+$sy"
+			],
+			"Texture": "A"
+		}]
+	}, {
+		"Conditions": [{
+			"Params": "West"
+		}],
+		"Elements": [{
+			"from": [
+				"0.5-$sy",
+				"-$sx",
+				"-$sz"
+			],
+			"to": [
+				"0.5+$sy",
+				"$sx",
+				"$sz"
+			],
+			"Texture": "A"
+		}]
+	}, {
+		"Conditions": [{
+			"Params": "East"
+		}],
+		"Elements": [{
+			"from": [
+				"-0.5",
+				"-$sx",
+				"-$sz"
+			],
+			"to": [
+				"-0.5+$sy",
+				"$sx",
+				"$sz"
+			],
+			"Texture": "A"
+		}]
+	}]
+}

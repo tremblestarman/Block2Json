@@ -1,0 +1,54 @@
+﻿{
+	"Enums": [{
+		"Conditions": [{
+			"Params": "Default"
+		}],
+		"Elements": [{
+			"from": [
+				"-$sx",
+				"-0.5",
+				"-$sz"
+			],
+			"to": [
+				"$sx",
+				"-0.5+$sy",
+				"$sz"
+			],
+			"Texture": "A"
+		}]
+	}, {
+		"Conditions": [{
+			"Params": "Bottom"
+		}],
+		"Elements": [{
+			"from": [
+				"-$sx",
+				"-0.5",
+				"-$sz"
+			],
+			"to": [
+				"$sx",
+				"-0.5+$sy",
+				"$sz"
+			],
+			"Texture": "A"
+		}]
+	}, {
+		"Conditions": [{
+			"Params": "Top"
+		}],
+		"Elements": [{
+			"from": [
+				"-$sx",
+				"0.5-$sy",
+				"-$sz"
+			],
+			"to": [
+				"$sx",
+				"0.5",
+				"$sz"
+			],
+			"Texture": "A"
+		}]
+	}]
+}

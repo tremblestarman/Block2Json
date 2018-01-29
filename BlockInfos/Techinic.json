@@ -1,0 +1,657 @@
+﻿[
+	[{
+		"VersionFrom": 1.12,
+		"VersionTo": 1.13,
+		"Id": "26",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.25,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/red"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 0,
+		"VersionTo": 1.11,
+		"Id": "26",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.25,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/bed_feet_top"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:white_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/white"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:orange_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/orange"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:magenta_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/magenta"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:light_blue_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/light_blue"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:yellow_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/yellow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:lime_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/lime"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:pink_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/pink"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:gray_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/gray"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:light_gray_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/light_gray"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:cyan_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/cyan"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:purple_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/purple"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:blue_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/blue"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:brown_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/brown"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:green_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/green"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:red_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/red"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:black_bed",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "entity/bed/black"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "34",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/piston_top_normal"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:piston_head",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/piston_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "51",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/fire_layer_0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:fire",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/fire_layer_0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "118",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cauldron_side"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:cauldron",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cauldron_side"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "145",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/anvil_top_damaged_0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:anvil",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/anvil_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "145",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/anvil_top_damaged_1"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:chipped_anvil",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/chipped_anvil_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "145",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/anvil_top_damaged_2"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:damaged_anvil",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/damaged_anvil_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "151",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.375,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/daylight_detector_top"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:daylight_detector",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.375,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/daylight_detector"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "154",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/hopper_outside"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:hopper",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/hopper_outside"
+				}
+			}
+		}
+	}]
+]

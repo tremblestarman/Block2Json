@@ -1,0 +1,1345 @@
+﻿[
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "70",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stone_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "72",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.125,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.25,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.25,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.375,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.375,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "3",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.625,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.625,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "5",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.75,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "6",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.875,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "78",
+		"Data": "7",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:snow",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/snow"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "93",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:repeater",
+		"Data": "powered=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "94",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:repeater",
+		"Data": "powered=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "147",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/gold_block"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:light_weighted_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/gold_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "148",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_block"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:heavy_weighted_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/iron_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "149",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:comparator",
+		"Data": "powered=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "150",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:comparator",
+		"Data": "powered=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_slab_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_white"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:white_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/white_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_orange"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:orange_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/orange_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_magenta"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:magenta_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/magenta_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "3",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_light_blue"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:light_blue_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/light_blue_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_yellow"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:yellow_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/yellow_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "5",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_lime"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:lime_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/lime_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "6",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_pink"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:pink_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/pink_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "7",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_gray"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:gray_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/gray_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "8",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_silver"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:light_gray_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/light_gray_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "9",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_cyan"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:cyan_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cyan_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "10",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_purple"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:purple_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/purple_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "11",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_blue"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:blue_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/blue_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "12",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_brown"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:brown_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/brown_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "13",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_green"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:green_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/green_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "14",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_red"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:red_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/red_wool"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "171",
+		"Data": "15",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/wool_colored_black"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:black_carpet",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/black_wool"
+				}
+			}
+		}
+	}]
+]

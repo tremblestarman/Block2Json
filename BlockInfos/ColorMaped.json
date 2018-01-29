@@ -1,0 +1,1068 @@
+﻿[
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "2",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/grass",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:grass_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_leaves",
+		"Data": "check_decay=false,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "spruce_leaves",
+		"Data": "check_decay=false,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "birch_leaves",
+		"Data": "check_decay=false,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "3",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "jungle_leaves",
+		"Data": "check_decay=false,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_leaves",
+		"Data": "check_decay=false,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "5",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "spruce_leaves",
+		"Data": "check_decay=false,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "6",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "birch_leaves",
+		"Data": "check_decay=false,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "7",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "jungle_leaves",
+		"Data": "check_decay=false,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "8",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_leaves",
+		"Data": "check_decay=true,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "9",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "spruce_leaves",
+		"Data": "check_decay=true,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "10",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "birch_leaves",
+		"Data": "check_decay=true,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "11",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "jungle_leaves",
+		"Data": "check_decay=true,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "12",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_leaves",
+		"Data": "check_decay=true,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 0.0 0.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "13",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "spruce_leaves",
+		"Data": "check_decay=true,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "14",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "birch_leaves",
+		"Data": "check_decay=true,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 0.0 0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "18",
+		"Data": "15",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "jungle_leaves",
+		"Data": "check_decay=true,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 true 15.0 15.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "111",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.1,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:lily_pad",
+		"Data": "x",
+		"Size": {
+			"X": 0.45,
+			"Y": 0.1,
+			"Z": 0.45
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "acacia_leaves",
+		"Data": "check_decay=false,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "dark_oak_leaves",
+		"Data": "check_decay=false,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "acacia_leaves",
+		"Data": "check_decay=false,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "5",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "dark_oak_leaves",
+		"Data": "check_decay=false,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "8",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "acacia_leaves",
+		"Data": "check_decay=true,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "9",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "dark_oak_leaves",
+		"Data": "check_decay=true,decayable=true",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "12",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "acacia_leaves",
+		"Data": "check_decay=true,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false 5.0 -10.0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "161",
+		"Data": "13",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "dark_oak_leaves",
+		"Data": "check_decay=true,decayable=false",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "colormap/foliage",
+					"Params": "ColorMap 5 false -10.0 -5.0"
+				}
+			}
+		}
+	}]
+]

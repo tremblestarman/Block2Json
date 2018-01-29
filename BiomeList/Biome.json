@@ -1,0 +1,255 @@
+﻿{
+	"Ocean": {
+		"Temperature": 0.5,
+		"Rainfall": 0.5
+	},
+	"Plains": {
+		"Temperature": 0.8,
+		"Rainfall": 0.4
+	},
+	"Desert": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"ExtremeHills": {
+		"Temperature": 0.2,
+		"Rainfall": 0.3
+	},
+	"Forest": {
+		"Temperature": 0.7,
+		"Rainfall": 0.8
+	},
+	"Taiga": {
+		"Temperature": 0.25,
+		"Rainfall": 0.8
+	},
+	"Swampland": {
+		"Temperature": 0.8,
+		"Rainfall": 0.9
+	},
+	"River": {
+		"Temperature": 0.5,
+		"Rainfall": 0.5
+	},
+	"Nether": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"End": {
+		"Temperature": 0.5,
+		"Rainfall": 0.5
+	},
+	"FrozenOcean": {
+		"Temperature": 0.0,
+		"Rainfall": 0.5
+	},
+	"FrozenRiver": {
+		"Temperature": 0.0,
+		"Rainfall": 0.5
+	},
+	"IcePlains": {
+		"Temperature": 0.0,
+		"Rainfall": 0.5
+	},
+	"IceMountains": {
+		"Temperature": 0.0,
+		"Rainfall": 0.5
+	},
+	"MushroomIsland": {
+		"Temperature": 0.9,
+		"Rainfall": 1.0
+	},
+  "MushroomIslandShore": 
+  {
+    "Temperature": 0.9,
+    "Rainfall": 1.0
+  },
+	"Beach": {
+		"Temperature": 0.8,
+		"Rainfall": 0.4
+	},
+	"DesertHills": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"ForestHills": {
+		"Temperature": 0.7,
+		"Rainfall": 0.8
+	},
+	"TaigaHills": {
+		"Temperature": 0.25,
+		"Rainfall": 0.8
+	},
+	"ExtremeHills Edge": {
+		"Temperature": 0.2,
+		"Rainfall": 0.3
+	},
+	"Jungle": {
+		"Temperature": 0.95,
+		"Rainfall": 0.9
+	},
+	"JungleHills": {
+		"Temperature": 0.95,
+		"Rainfall": 0.9
+	},
+	"JungleEdge": {
+		"Temperature": 0.95,
+		"Rainfall": 0.8
+	},
+	"DeepOcean": {
+		"Temperature": 0.5,
+		"Rainfall": 0.5
+	},
+	"StoneBeach": {
+		"Temperature": 0.2,
+		"Rainfall": 0.3
+	},
+	"ColdBeach": {
+		"Temperature": 0.05,
+		"Rainfall": 0.3
+	},
+	"BirchForest": {
+		"Temperature": 0.6,
+		"Rainfall": 0.6
+	},
+	"BirchForestHills": {
+		"Temperature": 0.6,
+		"Rainfall": 0.6
+	},
+	"RoofedForest": {
+		"Temperature": 0.7,
+		"Rainfall": 0.8
+	},
+	"ColdTaiga": {
+		"Temperature": 0.5,
+		"Rainfall": 0.4
+	},
+	"ColdTaigaHills": {
+		"Temperature": 0.5,
+		"Rainfall": 0.4
+	},
+	"MegaTaiga": {
+		"Temperature": 0.3,
+		"Rainfall": 0.8
+	},
+	"MegaTaigaHills": {
+		"Temperature": 0.3,
+		"Rainfall": 0.8
+	},
+	"ExtremeHills+": {
+		"Temperature": 0.2,
+		"Rainfall": 0.3
+	},
+	"Savanna": {
+		"Temperature": 1.2,
+		"Rainfall": 0.0
+	},
+	"SavannaPlateau": {
+		"Temperature": 1.0,
+		"Rainfall": 0.0
+	},
+	"Mesa": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"MesaPlateau F": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"MesaPlateau": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"TheVoid": {
+		"Temperature": 0.5,
+		"Rainfall": 0.5
+	},
+	"SunflowerPlains": {
+		"Temperature": 0.8,
+		"Rainfall": 0.4
+	},
+	"DesertM": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"ExtremeHillsM": {
+		"Temperature": 0.2,
+		"Rainfall": 0.3
+	},
+	"FlowerForest": {
+		"Temperature": 0.7,
+		"Rainfall": 0.8
+	},
+	"TaigaM": {
+		"Temperature": 0.25,
+		"Rainfall": 0.8
+	},
+	"SwamplandM": {
+		"Temperature": 0.8,
+		"Rainfall": 0.9
+	},
+	"IcePlainsSpikes": {
+		"Temperature": 0.0,
+		"Rainfall": 0.5
+	},
+	"JungleM": {
+		"Temperature": 0.95,
+		"Rainfall": 0.9
+	},
+	"JungleEdgeM": {
+		"Temperature": 0.95,
+		"Rainfall": 0.8
+	},
+	"BirchForestM": {
+		"Temperature": 0.6,
+		"Rainfall": 0.6
+	},
+	"BirchForestHillsM": {
+		"Temperature": 0.6,
+		"Rainfall": 0.6
+	},
+	"RoofedForestM": {
+		"Temperature": 0.7,
+		"Rainfall": 0.8
+	},
+	"ColdTaigaM": {
+		"Temperature": 0.5,
+		"Rainfall": 0.4
+	},
+	"MegaSpruceTaiga": {
+		"Temperature": 0.25,
+		"Rainfall": 0.8
+	},
+	"MegaSpruceTaigaHills": {
+		"Temperature": 0.25,
+		"Rainfall": 0.8
+	},
+	"ExtremeHills+M": {
+		"Temperature": 0.2,
+		"Rainfall": 0.3
+	},
+	"SavannaM": {
+		"Temperature": 1.1,
+		"Rainfall": 0.0
+	},
+	"SavannaPlateauM": {
+		"Temperature": 1.0,
+		"Rainfall": 0.0
+	},
+	"Mesa(Bryce)": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"MesaPlateauFM": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"MesaPlateauM": {
+		"Temperature": 2.0,
+		"Rainfall": 0.0
+	},
+	"UnknownBiome": {
+		"Temperature": 0.8,
+		"Rainfall": 0.4
+	}
+}

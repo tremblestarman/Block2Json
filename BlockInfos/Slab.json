@@ -1,0 +1,1272 @@
+﻿[
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "44",
+			"Data": "0",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/stone_slab_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:stone_slab",
+			"Data": "type=bottom",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/stone_slab_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "44",
+			"Data": "1",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/sandstone_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:sandstone_slab",
+			"Data": "type=bottom",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/sandstone_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:petrified_oak_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "3",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cobblestone"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:cobblestone_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cobblestone"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/brick"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:brick_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/brick"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "5",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stonebrick"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stone_brick_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_bricks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "6",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/nether_brick"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:nether_brick_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/nether_brick"
+				}
+			}
+		}
+	}],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "44",
+			"Data": "7",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/quartz_block_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:quartz_slab",
+			"Data": "type=bottom",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/quartz_block_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "0",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "1",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_spruce"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "2",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_birch"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "3",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_jungle"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "4",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_acacia"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_slab",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "126",
+			"Data": "5",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/planks_big_oak"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:dark_oak_slab",
+			"Data": "type=bottom",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/dark_oak_planks"
+					}
+				}
+			}
+		}
+	],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "182",
+			"Data": "0",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/red_sandstone_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:red_sandstone_slab",
+			"Data": "type=bottom",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/red_sandstone_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "205",
+			"Data": "0",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/purpur_block"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:purpur_slab",
+			"Data": "type=bottom",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/purpur_block"
+					}
+				}
+			}
+		}
+	],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "44",
+			"Data": "8",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/stone_slab_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:stone_slab",
+			"Data": "type=top",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/stone_slab_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "44",
+			"Data": "9",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/sandstone_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:sandstone_slab",
+			"Data": "type=top",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/sandstone_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "10",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:petrified_oak_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "11",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cobblestone"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:cobblestone_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cobblestone"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "12",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/brick"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:brick_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/brick"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "13",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stonebrick"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stone_brick_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stone_bricks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "44",
+		"Data": "14",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/nether_brick"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:nether_brick_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/nether_brick"
+				}
+			}
+		}
+	}],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "44",
+			"Data": "15",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/quartz_block_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:quartz_slab",
+			"Data": "type=top",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/quartz_block_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "8",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_oak"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "9",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_spruce"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "10",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_birch"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "11",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_jungle"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "126",
+		"Data": "12",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/planks_acacia"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "126",
+			"Data": "13",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/planks_big_oak"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:dark_oak_slab",
+			"Data": "type=top",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/dark_oak_planks"
+					}
+				}
+			}
+		}
+	],
+	[{
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "182",
+			"Data": "8",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/red_sandstone_top"
+					}
+				}
+			}
+		},
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:red_sandstone_slab",
+			"Data": "type=top",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Top",
+				"Textures": {
+					"A": {
+						"Path": "blocks/red_sandstone_top"
+					}
+				}
+			}
+		}
+	],
+	[{
+		"VersionFrom": 0,
+		"VersionTo": 1.13,
+		"Id": "205",
+		"Data": "8",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/purpur_block"
+				}
+			}
+		}
+	}, {
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:purpur_slab",
+		"Data": "type=top",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.5,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Top",
+			"Textures": {
+				"A": {
+					"Path": "blocks/purpur_block"
+				}
+			}
+		}
+	}]
+]
