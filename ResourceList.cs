@@ -30,6 +30,7 @@ namespace S2J
                     }
                 }
             }
+            BlockInfos2BlockTags(StartupPath + "\\BlockTags");
         }
         public ResourceList(string modelInfoDirectoryPath = null, string blockInfoDirectoryPath = null, string blockTagDirectoryPath = null)
         {
@@ -96,12 +97,14 @@ namespace S2J
             {
                 if (new Regex(@".*(?=.json)").Match(item).Success)
                 {
-                    if (directoryPath != null && File.Exists(directoryPath + "\\" + item))
+                    var i = item.Replace("/", "\\");
+                    i = "\\BlockTags\\" + i;
+                    if (directoryPath != null && File.Exists(directoryPath + i))
                     {
-                        var newPairs = GetSelectedBlocks(directoryPath, directoryPath + "\\" + item);
+                        var newPairs = GetSelectedBlocks(directoryPath, i);
                         simpleBlockCollection.AddRange(newPairs);
                     }
-                    else if (BlockTagList.Keys.Contains(item)) simpleBlockCollection.AddRange(BlockTagList[item]);
+                    else if (BlockTagList.Keys.Contains(i)) simpleBlockCollection.AddRange(BlockTagList[i]);
                 }
                 else
                     simpleBlockCollection.Add(new SimpleBlockInfo(item));
@@ -129,12 +132,13 @@ namespace S2J
             if (plus != null)
                 foreach (var element in plus)
                 {
-                    if (element == null) continue;
+                    var _element = element.Replace("/", "\\");
+                    if (_element == null) continue;
                     else if (new Regex(@".*(?=.json)").Match(element).Success)
                     {
-                        if (File.Exists(directoryPath + "\\" + element))
+                        if (File.Exists(directoryPath + "\\" + _element))
                         {
-                            var file = new FileInfo(directoryPath + "\\" + element);
+                            var file = new FileInfo(directoryPath + "\\" + _element);
                             var _content = File.ReadAllText(file.FullName);
                             Values.AddRange(ReadBlockExpressions(directoryPath, _content));
                         }
@@ -148,12 +152,13 @@ namespace S2J
             if (minus != null)
                 foreach (var element in minus)
                 {
-                    if (element == null) continue;
+                    var _element = element.Replace("/", "\\");
+                    if (_element == null) continue;
                     else if (new Regex(@".*(?=.json)").Match(element).Success)
                     {
-                        if (File.Exists(directoryPath + "\\" + element))
+                        if (File.Exists(directoryPath + "\\" + _element))
                         {
-                            var file = new FileInfo(directoryPath + "\\" + element);
+                            var file = new FileInfo(directoryPath + "\\" + _element);
                             var _content = File.ReadAllText(file.FullName);
                             var _new = ReadBlockExpressions(directoryPath, _content);
                             Values.RemoveAll(item => _new.Contains(item));
@@ -167,6 +172,17 @@ namespace S2J
                 }
             #endregion
             return Values;
+        }
+        private void BlockInfos2BlockTags(string directoryPath = null)
+        {
+            var blockTag = new BlockTag();
+            blockTag.Plus = new List<string>();
+            if (directoryPath != null)
+                foreach (var key in BlockInfoList.Keys)
+                    foreach (var blocks in BlockInfoList[key])
+                        foreach (var b in blocks)
+                            blockTag.Plus.Add(b.Id + "[" + b.Data + "]");
+            File.WriteAllText(directoryPath + "\\All.json", JsonConvert.SerializeObject(blockTag));
         }
         //Model Info List
         public Dictionary<string, ModelInfo> ModelInfoList = new Dictionary<string, ModelInfo>();

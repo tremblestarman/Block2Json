@@ -37,13 +37,11 @@ namespace S2J
             public List<ModelInfo._Enum.Element> GetElement(BlockCollection blockCollection, ResourceList res = null)
             { return BlockInfo.GetModelInfo().GetElements(BlockInfo, blockCollection, GetCoordinate(), res); }
         }
+
+        public Block[,,] level;
         public Block GetBlock(int X, int Y, int Z)
         {
-            foreach (var e in blocks)
-            {
-                if (e.GetCoordinate().X == X && e.GetCoordinate().Y == Y && e.GetCoordinate().Z == Z) return e;
-            }
-            return null;
+            return level[X,Y,Z];
         }
         #region Size
         private int Width { get; set; }
