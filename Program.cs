@@ -475,8 +475,8 @@ namespace S2J
                         }
                     }
                 }
+                blocks.blocks = _blocks;
             }
-            blocks.blocks = _blocks;
             return blocks;
         }
         private static JsonModel JsonModel(string directoryPath)
