@@ -4029,7 +4029,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/glass_light_blue"
+          "Path": "blocks/glass_light_blue"
 				}
 			}
 		}
@@ -4224,7 +4224,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/glass_light"
+					"Path": "blocks/glass_silver"
 				}
 			}
 		}

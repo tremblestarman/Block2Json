@@ -8,7 +8,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using Newtonsoft.Json;
 
-namespace S2J
+namespace Block2Json
 {
     public class JsonModel
     {

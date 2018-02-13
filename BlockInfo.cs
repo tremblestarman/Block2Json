@@ -7,7 +7,7 @@ using System.IO;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 
-namespace S2J
+namespace Block2Json
 {
     public class BlockInfo
     {

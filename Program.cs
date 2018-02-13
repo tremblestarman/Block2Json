@@ -8,7 +8,7 @@ using System.Windows.Forms;
 using Newtonsoft.Json;
 using fNbt;
 
-namespace S2J
+namespace Block2Json
 {
     public class Program
     {
@@ -213,7 +213,7 @@ namespace S2J
             var newFile = file.Replace(extension, ".json");
             File.WriteAllText(newFile, JsonConvert.SerializeObject(jsonModel, Formatting.Indented));
 
-            Current.WriteLine(newFile + " have been Created");
+            Current.WriteLine(newFile + " has been Created");
             #endregion
             if (log) File.WriteAllText("Log -" + DateTime.Now.ToFileTime() + ".txt", Current.Log.ToString());
             if (nopause) return;
@@ -258,7 +258,6 @@ namespace S2J
                         if (blocks[index] != 0)
                         {
                             var blockInfo = res.GetBlockInfo(blocks[index].ToString(), datas[index].ToString(), version);
-
                             if (blockInfo != null)
                             {
                                 block.SetCoordinate(x, y, z);
@@ -589,10 +588,12 @@ namespace S2J
                         for (var i = 0; i < 3; i++)
                         {
                             element.from[i] = Math.Max(element.from[i] - changedAmount * element.from[i], 0);
+                            if (element.from[i] > 32) element.from[i] = 32;
                         }
                         for (var i = 0; i < 3; i++)
                         {
                             element.to[i] = Math.Max(element.to[i] - changedAmount * element.to[i], 0);
+                            if (element.to[i] > 32) element.to[i] = 32;
                         }
 
                         lock (obj) //Update Progress

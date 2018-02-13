@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Data;
 
-namespace S2J
+namespace Block2Json
 {
     public class ModelInfo
     {
@@ -141,6 +141,8 @@ namespace S2J
                     int[] uv = new[] { 0, 0 };
                     double uv_x = 0.0f, uv_y = 0.0f;
 
+                    if (temp > 1) temp = 1; if (temp < 0) temp = 0;
+                    if (rain > 1) rain = 1; if (rain < 0) rain = 0;
                     bool rangeEroor = true;
 
                     while (rangeEroor)
@@ -155,7 +157,11 @@ namespace S2J
                         {
                             uv_x = temp + (warmer / 256f); uv_y = temp * rain + (wetter / 256f);
                         }
-                        if (uv_x <= 1 && uv_x >= 0 && uv_y <= 1 && uv_y >= 0 && uv_x >= uv_y) rangeEroor = false;
+                        if (uv_x >= 1) uv_x = 1;
+                        if (uv_x <= 0) uv_x = 0;
+                        if (uv_y >= 1) uv_y = 1;
+                        if (uv_y <= 0) uv_y = 0;
+                        if (uv_x >= uv_y) rangeEroor = false;
                     }
 
                     if (!rich)

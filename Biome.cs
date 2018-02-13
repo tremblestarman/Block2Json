@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
 
-namespace S2J
+namespace Block2Json
 {
     //Origin: https://github.com/erich666/Mineways/blob/master/Win/biomes.cpp
     static public class BiomeList

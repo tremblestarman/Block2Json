@@ -7,17 +7,22 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace S2J
+namespace Block2Json
 {
     static public class Universal
     {
         static public bool Match(string pool, string match)
         {
-            if (match != null && Regex.Match(match, @"\S+").Success && pool != "" && pool != "x" && match != "" && match != "x")
+            if ((Regex.Match(match, @"^\d+$").Success || Regex.Match(pool, @"^\d+$").Success) && pool != "" && pool != "x" && match != "" && match != "x")
+            {
+                if (pool == match) return true;
+                else return false;
+            }
+            else if (match != null && Regex.Match(match, @"\S+").Success && pool != "" && pool != "x" && match != "" && match != "x")
             {
                 match = match.Replace(":", "=");
                 pool = pool.Replace(":", "=");
-                
+
                 var d = match.Split(',');
                 if (d.Length == 0) return true;
 
@@ -28,7 +33,8 @@ namespace S2J
                 }
                 return success;
             }
-            else return true;
+            else
+                return true;
         }
         static public bool Match(List<string> pool, List<string> match)
         {
