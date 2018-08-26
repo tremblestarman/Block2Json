@@ -324,7 +324,7 @@ namespace Block2Json
                     var data = string.Join(",", datas.ToArray());
                     #endregion
                     //MessageBox.Show(id + " " + data);
-                    if (id != "minecraft:air")
+                    if (id != "minecraft:air" && id != "minecraft:void_air" && id != "minecraft:cave_air")
                     {
                         var blockInfo = res.GetBlockInfo(id, data, version);
                         if (blockInfo != null)
