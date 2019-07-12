@@ -1304,28 +1304,50 @@
 		}
 	}],
 	[{
-		"VersionFrom": 0,
-		"VersionTo": 1.13,
-		"Id": "171",
-		"Data": "15",
-		"Size": {
-			"X": 0.5,
-			"Y": 0.125,
-			"Z": 0.5
+			"VersionFrom": 0,
+			"VersionTo": 1.13,
+			"Id": "171",
+			"Data": "15",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.125,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/wool_colored_black"
+					}
+				}
+			}
 		},
-		"Model": {
-			"Name": "Half.json",
-			"Params": "Bottom",
-			"Textures": {
-				"A": {
-					"Path": "blocks/wool_colored_black"
+		{
+			"VersionFrom": 1.13,
+			"VersionTo": 0,
+			"Id": "minecraft:black_carpet",
+			"Data": "x",
+			"Size": {
+				"X": 0.5,
+				"Y": 0.125,
+				"Z": 0.5
+			},
+			"Model": {
+				"Name": "Half.json",
+				"Params": "Bottom",
+				"Textures": {
+					"A": {
+						"Path": "blocks/black_wool"
+					}
 				}
 			}
 		}
-	}, {
+	],
+	[{
 		"VersionFrom": 1.13,
 		"VersionTo": 0,
-		"Id": "minecraft:black_carpet",
+		"Id": "minecraft:spruce_pressure_plate",
 		"Data": "x",
 		"Size": {
 			"X": 0.5,
@@ -1337,7 +1359,87 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/black_wool"
+					"Path": "blocks/spruce_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_planks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_pressure_plate",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 0.125,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_planks"
 				}
 			}
 		}

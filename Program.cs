@@ -15,7 +15,7 @@ namespace Block2Json
         #region Static
         static ResourceList res; //ResourceList
         static BlockCollection bcl; //BlockCollection
-        static double version = 1.122; //Current Version
+        public static double version = 1.122; //Current Version
         static string target = ".schematic"; //Target
         static public bool unlimit = false; static public bool smooth = false; static public bool nopause = false; static public bool log = false;//Essential Options
         static public float temp; static public float rain; //Biome

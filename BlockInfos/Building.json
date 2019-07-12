@@ -2566,7 +2566,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/brick"
+					"Path": "blocks/bricks"
 				}
 			}
 		}
@@ -2644,7 +2644,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/nether_brick"
+					"Path": "blocks/nether_bricks"
 				}
 			}
 		}
@@ -2878,7 +2878,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/brick"
+					"Path": "blocks/bricks"
 				}
 			}
 		}
@@ -2956,7 +2956,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/nether_brick"
+					"Path": "blocks/nether_bricks"
 				}
 			}
 		}
@@ -3034,7 +3034,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/brick"
+					"Path": "blocks/bricks"
 				}
 			}
 		}
@@ -4029,7 +4029,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-          "Path": "blocks/glass_light_blue"
+					"Path": "blocks/glass_light_blue"
 				}
 			}
 		}
@@ -5062,7 +5062,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/brick"
+					"Path": "blocks/bricks"
 				}
 			}
 		}
@@ -5179,7 +5179,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/nether_brick"
+					"Path": "blocks/nether_bricks"
 				}
 			}
 		}
@@ -5218,7 +5218,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/nether_brick"
+					"Path": "blocks/nether_bricks"
 				}
 			}
 		}
@@ -8298,7 +8298,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/red_nether_brick"
+					"Path": "blocks/red_nether_bricks"
 				}
 			}
 		}
@@ -8415,7 +8415,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_white"
+					"Path": "blocks/white_shulker_box"
 				}
 			}
 		}
@@ -8454,7 +8454,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_orange"
+					"Path": "blocks/orange_shulker_box"
 				}
 			}
 		}
@@ -8493,7 +8493,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_magenta"
+					"Path": "blocks/magenta_shulker_box"
 				}
 			}
 		}
@@ -8532,7 +8532,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_light_blue"
+					"Path": "blocks/light_blue_shulker_box"
 				}
 			}
 		}
@@ -8571,7 +8571,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_yellow"
+					"Path": "blocks/yellow_shulker_box"
 				}
 			}
 		}
@@ -8610,7 +8610,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_lime"
+					"Path": "blocks/lime_shulker_box"
 				}
 			}
 		}
@@ -8649,7 +8649,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_pink"
+					"Path": "blocks/pink_shulker_box"
 				}
 			}
 		}
@@ -8688,7 +8688,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_gray"
+					"Path": "blocks/gray_shulker_box"
 				}
 			}
 		}
@@ -8727,7 +8727,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_light_gray"
+					"Path": "blocks/light_gray_shulker_box"
 				}
 			}
 		}
@@ -8766,7 +8766,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_cyan"
+					"Path": "blocks/cyan_shulker_box"
 				}
 			}
 		}
@@ -8805,7 +8805,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_purple"
+					"Path": "blocks/purple_shulker_box"
 				}
 			}
 		}
@@ -8844,7 +8844,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_blue"
+					"Path": "blocks/blue_shulker_box"
 				}
 			}
 		}
@@ -8883,7 +8883,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_brown"
+					"Path": "blocks/brown_shulker_box"
 				}
 			}
 		}
@@ -8922,7 +8922,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_green"
+					"Path": "blocks/green_shulker_box"
 				}
 			}
 		}
@@ -8961,7 +8961,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_red"
+					"Path": "blocks/red_shulker_box"
 				}
 			}
 		}
@@ -9000,7 +9000,7 @@
 			"Params": "Bottom",
 			"Textures": {
 				"A": {
-					"Path": "blocks/shulker_top_black"
+					"Path": "blocks/black_shulker_box"
 				}
 			}
 		}
@@ -10917,5 +10917,625 @@
 				}
 			}
 		}
-	]
+	],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:oak_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/oak_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:spruce_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/spruce_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:birch_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/birch_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:jungle_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jungle_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:acacia_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/acacia_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_oak_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_oak_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stripped_oak_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stripped_oak_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stripped_spruce_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stripped_spruce_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stripped_birch_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stripped_birch_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stripped_jungle_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stripped_jungle_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stripped_acacia_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stripped_acacia_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:stripped_dark_oak_wood",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/stripped_dark_oak_log"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:smooth_sandstone",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/sandstone_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dried_kelp_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dried_kelp_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:carved_pumpkin",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/pumpkin_side"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:mushroom_stem",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/mushroom_stem"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dead_tube_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dead_tube_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dead_brain_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dead_brain_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dead_bubble_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dead_bubble_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dead_fire_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dead_fire_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dead_horn_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dead_horn_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:tube_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/tube_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:brain_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/brain_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:bubble_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/bubble_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:fire_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/fire_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:horn_coral_block",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/horn_coral_block"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:conduit",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/conduit"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:prismarine_stairs",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/prismarine"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_prismarine_stairs",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_prismarine"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:prismarine_brick_stairs",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/prismarine_bricks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:blue_ice",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/blue_ice"
+				}
+			}
+		}
+	}]
 ]

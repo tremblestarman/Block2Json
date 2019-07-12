@@ -101,6 +101,12 @@ namespace Block2Json
                         {
                             try
                             {
+                                if (Program.version >= 1.13)
+                                {
+                                    var m = t.Path.ToList();
+                                    m.RemoveAt(5);
+                                    t.Path = String.Join(null, m.ToArray());
+                                }
                                 Bitmap compare = new Bitmap(directoryPath + "\\textures\\" + t.Path.Replace("/", "\\") + ".png");
                                 for (int mh = 0; mh < compare.Size.Height; mh++)
                                 {

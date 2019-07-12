@@ -1268,5 +1268,145 @@
 				}
 			}
 		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:prismarine_stairs",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/prismarine"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_prismarine_stairs",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_prismarine"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:prismarine_brick_stairs",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/prismarine_bricks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:prismarine_slab",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/prismarine"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:petrified_oak_slab",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/prismarine"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:dark_prismarine_slab",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/dark_prismarine"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.13,
+		"VersionTo": 0,
+		"Id": "minecraft:prismarine_brick_slab",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/prismarine_bricks"
+				}
+			}
+		}
 	}]
 ]
