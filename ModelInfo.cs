@@ -86,6 +86,13 @@ namespace Block2Json
                 {
                     var uv = new int[] { 0, 0 };
                     var t = GetTexture(_info);
+                    var path = "";
+                    if (Program.version >= 1.13)
+                    {
+                        var m = t.Path.ToList();
+                        m.RemoveAt(5);
+                        path = String.Join(null, m.ToArray());
+                    }
                     if (t.Params != null && t.Params.Contains("ColorMap")) //ColorMap
                     {
                         var pars = t.Params.Split(' ');
@@ -101,13 +108,7 @@ namespace Block2Json
                         {
                             try
                             {
-                                if (Program.version >= 1.13)
-                                {
-                                    var m = t.Path.ToList();
-                                    m.RemoveAt(5);
-                                    t.Path = String.Join(null, m.ToArray());
-                                }
-                                Bitmap compare = new Bitmap(directoryPath + "\\textures\\" + t.Path.Replace("/", "\\") + ".png");
+                                Bitmap compare = new Bitmap(directoryPath + "\\textures\\" + path.Replace("/", "\\") + ".png");
                                 for (int mh = 0; mh < compare.Size.Height; mh++)
                                 {
                                     for (int mw = 0; mw < compare.Size.Width; mw++)
@@ -126,11 +127,11 @@ namespace Block2Json
                         {
                             while (textureError)
                             {
-                                uv[0] = (int)Math.Round(StaticRandom.NextDouble() * 16);
-                                uv[1] = (int)Math.Round(StaticRandom.NextDouble() * 16);
+                                uv[0] = (int)Math.Floor(StaticRandom.NextDouble() * 16);
+                                uv[1] = (int)Math.Floor(StaticRandom.NextDouble() * 16);
                                 try
                                 {
-                                    Bitmap compare = new Bitmap(System.Windows.Forms.Application.StartupPath + "\\textures\\" + t.Path.Replace("/", "\\") + ".png");
+                                    Bitmap compare = new Bitmap(System.Windows.Forms.Application.StartupPath + "\\textures\\" + path.Replace("/", "\\") + ".png");
                                     textureError = (compare.GetPixel((int)uv[0], (int)uv[1]).A <= 8);
                                 }
                                 catch
@@ -175,8 +176,8 @@ namespace Block2Json
                         uv_x = 1 - uv_x;
                         uv_y = 1 - uv_y;
                     }
-                    uv[0] = (int)Math.Round(uv_x * 16);
-                    uv[1] = (int)Math.Round(uv_y * 16);
+                    uv[0] = (int)Math.Floor(uv_x * 16);
+                    uv[1] = (int)Math.Floor(uv_y * 16);
                     return uv;
                 }
             }

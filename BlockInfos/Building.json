@@ -11537,5 +11537,285 @@
 				}
 			}
 		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:smooth_stone",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/smooth_stone"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:andesite_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/andesite"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:polished_andesite_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/polished_andesite"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:diorite_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/diorite"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:polished_diorite_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/polished_diorite"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:granite_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/granite"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:polished_granite_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/polished_granite"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:mossy_stone_brick_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/mossy_stone_bricks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:mossy_cobblestone_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/mossy_cobblestone"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:smooth_sandstone_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/sandstone_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:smooth_red_sandstone_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/red_sandstone_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:smooth_quartz_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/quartz_block_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:red_nether_brick_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/red_nether_bricks"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:end_stone_brick_stairs",
+		"Data": "type=bottom",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/end_stone_bricks"
+				}
+			}
+		}
 	}]
 ]

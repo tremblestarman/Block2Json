@@ -518,7 +518,7 @@ namespace Block2Json
                     {
                         var index = block.GetBlockInfo().Id + "_" + block.GetBlockInfo().Data;
                         elements.Add(e.ToJsonElment(index));
-                        if (!jsonModel.textures.Keys.Contains(index)) jsonModel.textures.Add(index, e.texture.Path);
+                        if (!jsonModel.textures.Keys.Contains(index)) jsonModel.textures.Add(index, PathConverter(e.texture.Path));
                     }
                 }
                 current++;
@@ -605,6 +605,17 @@ namespace Block2Json
                 }
             }
             return jsonModel;
+        }
+
+        private static string PathConverter(string oldpath)
+        {
+            if (Program.version >= 1.13)
+            {
+                var m = oldpath.ToList();
+                m.RemoveAt(5);
+                return String.Join(null, m.ToArray());
+            }
+            else return oldpath;
         }
     }
 }

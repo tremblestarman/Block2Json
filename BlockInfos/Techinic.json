@@ -653,5 +653,245 @@
 				}
 			}
 		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:bamboo",
+		"Data": "x",
+		"Size": {
+			"X": 0.1,
+			"Y": 1.0,
+			"Z": 0.1
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/bamboo_stalk"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:barrel",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/barrel_top"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:blast_furnace",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/blast_furnace_side"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:campfire",
+		"Data": "x",
+		"Size": {
+			"X": 0.4,
+			"Y": 0.2,
+			"Z": 0.4
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/fire_0"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:cartography_table",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/cartography_table_side3"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:composter",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/composter_side"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:fletching_table",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/fletching_table_side"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:grindstone",
+		"Data": "x",
+		"Size": {
+			"X": 0.4,
+			"Y": 0.8,
+			"Z": 0.4
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/grindstone_side"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:lantern",
+		"Data": "x",
+		"Size": {
+			"X": 0.3,
+			"Y": 0.5,
+			"Z": 0.3
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/jack_o_lantern"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:loom",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/loom_front"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:scaffolding",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/scaffolding_bottom"
+				}
+			}
+		}
+	}],
+	[{
+		"VersionFrom": 1.14,
+		"VersionTo": 0,
+		"Id": "minecraft:scaffolding",
+		"Data": "x",
+		"Size": {
+			"X": 0.5,
+			"Y": 1.0,
+			"Z": 0.5
+		},
+		"Model": {
+			"Name": "Half.json",
+			"Params": "Bottom",
+			"Textures": {
+				"A": {
+					"Path": "blocks/scaffolding_bottom"
+				}
+			}
+		}
 	}]
 ]
